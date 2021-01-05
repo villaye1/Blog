@@ -147,6 +147,6 @@ updated_option: false
 
 deploy:
   type: git
-  repo: https://villaye1@github.com/villaye1/villaye1.github.io.git
+  repo: git@github.com:villaye1/villaye1.github.io.git
   branch: master
   message: Hexo update
