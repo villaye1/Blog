@@ -19,8 +19,8 @@ language: zh-CN  #theme: maupassant，landscape，Annie
 # theme: landscape  #默认主题，最简单
 # theme: yelee  #切换到yelee主题前，建议先在 `git bash` 中运行 `hexo clean` 清理一遍缓存
 # theme: maupassant
-# theme: next 
-theme: matery 
+theme: next 
+# theme: matery 
 # theme: butterfly 
 # theme: volantis
 
